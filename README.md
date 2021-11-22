@@ -1,6 +1,11 @@
-# 🎮 Showcase application, created with Unreal Engine 4
+# 🎮 Showcase application (exam assignment), created with Unreal Engine 4
 
 Showcase application for the lecture "Computer Graphics" (Computergrafik) at the DHBW in Friedrichshafen, Germany. The exam assignment of the lecture is the creation of an animated 3D scene with special attention to creativity and complexity.
+
+## 🖥 Download
+**[Click here to download the latest project files]()**
+
+Don't forget to open them in the Unreal Engine to use and look into them.
 
 ## 📚 Documentation
 
