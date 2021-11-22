@@ -3,7 +3,7 @@
 Showcase application for the lecture "Computer Graphics" (Computergrafik) at the DHBW in Friedrichshafen, Germany. The exam assignment of the lecture is the creation of an animated 3D scene with special attention to creativity and complexity.
 
 ## 🖥 Download
-👉 **[Click here to download the latest stable project files](https://github.com/The-Bug-Busters/cg-unreal-demo/releases/tag/v1.0)** 👈
+👉 **[Click here to download the latest stable project files](https://github.com/The-Bug-Busters/cg-unreal-demo/releases/tag/v1.0.1)** 👈
 
 Don't forget to open them in the Unreal Engine to use and look into them.
 
