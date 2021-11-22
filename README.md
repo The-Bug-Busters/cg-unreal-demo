@@ -9,7 +9,7 @@ Don't forget to open them in the Unreal Engine to use and look into them.
 
 ## 📚 Documentation
 
-Please look in the [documentation]() folder. There you will find a detailed documentation as a PDF file, written in German. There you will also find our presentation (PDF & .pptx) which we gave as part of our exam assignment.
+Please look in the [**documentation**](/documentation) folder. There you will find a detailed documentation as a PDF file, written in German. There you will also find our presentation (PDF & .pptx) which we gave as part of our exam assignment.
 
 ## 👷 Assignment requirements
 The following requirements must be met:
